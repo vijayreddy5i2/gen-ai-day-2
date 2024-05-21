@@ -1,0 +1,25 @@
+<department>
+    <name>Computer Science</name>
+    <year>
+        <name>First Year</name>
+        <student>
+            <id>101</id>
+            <name>John Doe</name>
+        </student>
+        <student>
+            <id>102</id>
+            <name>Jane Smith</name>
+        </student>
+    </year>
+    <year>
+        <name>Second Year</name>
+        <student>
+            <id>103</id>
+            <name>Michael Johnson</name>
+        </student>
+        <student>
+            <id>104</id>
+            <name>Emily Brown</name>
+        </student>
+    </year>
+</department>
